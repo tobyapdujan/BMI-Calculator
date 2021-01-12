@@ -1,0 +1,15 @@
+ion-content {
+  background: linear-gradient(to right, #56ab2f, #a8e063);
+}
+
+h2 {
+  color: #544a7d;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+p {
+  color: #544a7d;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+}
